@@ -24,16 +24,17 @@ múltiples métodos y comparando su rendimiento de forma rigurosa.
 ---
 
 ## 📁 Estructura del proyecto
-medrisk-ai/
-├── data/                  # Dataset Framingham
-├── notebooks/
-│   ├── 01_EDA.ipynb       # ✅ Análisis exploratorio
-│   ├── 02_features.ipynb  # 🔄 Feature Engineering
-│   ├── 03_models.ipynb    # 🔄 Modelos ML
-│   └── 04_survival.R      # 🔄 Análisis de supervivencia
-├── reports/
-│   └── EDA_visualizaciones.png
-└── src/
+
+    medrisk-ai/
+    ├── data/                  
+    ├── notebooks/
+    │   ├── 01_EDA.ipynb         ✅ Análisis exploratorio
+    │   ├── 02_features.ipynb    🔄 Feature Engineering
+    │   ├── 03_models.ipynb      🔄 Modelos ML
+    │   └── 04_survival.R        🔄 Análisis de supervivencia
+    ├── reports/
+    │   └── EDA_visualizaciones.png
+    └── src/
 ---
 
 ## 📊 Dataset
